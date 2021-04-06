@@ -1,0 +1,13 @@
+<variables>
+  <aerodynamics>
+    <cl/>
+    <cd/>
+    <V/>
+  </aerodynamics>
+  <airfoilWingParameters>
+    <mass/>
+    <fuelFraction/>
+    <specificFuelConsumption/>
+    <gravityConstant/>
+  </airfoilWingParameters>
+</variables>

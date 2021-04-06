@@ -1,0 +1,4 @@
+name: aeroperf
+dependencies:
+  - python=3.8
+  - lxml

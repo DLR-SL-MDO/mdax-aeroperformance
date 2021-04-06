@@ -1,0 +1,28 @@
+<variables>
+  <Mission>
+    <range/>
+  </Mission>
+  <aerodynamics>
+    <V/>
+    <rho/>
+    <alpha_elastic/>
+    <alpha_stiff/>
+    <cl/>
+    <cd/>
+  </aerodynamics>
+  <airfoilWingParameters>
+    <span/>
+    <chordLength/>
+    <mass/>
+    <gravityConstant/>
+    <dcl_dalpha_airfoil/>
+    <alpha_0_airfoil/>
+    <cd_0/>
+    <cm_0/>
+    <K_alpha/>
+    <relDistElasticAxisToCenterOfGravity/>
+    <relDistQuarterPointElasticAxis/>
+    <fuelFraction/>
+    <specificFuelConsumption/>
+  </airfoilWingParameters>
+</variables>

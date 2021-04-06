@@ -1,0 +1,28 @@
+<variables>
+  <Mission>
+    <range>0</range>
+  </Mission>
+  <aerodynamics>
+    <V>70.0</V>
+    <rho>1.225</rho>
+    <alpha_elastic>0</alpha_elastic>
+    <alpha_stiff>2.967734</alpha_stiff>
+    <cl>0</cl>
+    <cd>0</cd>
+  </aerodynamics>
+  <airfoilWingParameters>
+    <span>1</span>
+    <chordLength>0.3</chordLength>
+    <mass>50</mass>
+    <gravityConstant>9.81</gravityConstant>
+    <dcl_dalpha_airfoil>6.283185307</dcl_dalpha_airfoil>
+    <alpha_0_airfoil>-2</alpha_0_airfoil>
+    <cd_0>0.018</cd_0>
+    <cm_0>0.025</cm_0>
+    <K_alpha>3000</K_alpha>
+    <relDistElasticAxisToCenterOfGravity>0.15</relDistElasticAxisToCenterOfGravity>
+    <relDistQuarterPointElasticAxis>0.1</relDistQuarterPointElasticAxis>
+    <fuelFraction>0.2</fuelFraction>
+    <specificFuelConsumption>1.8e-5</specificFuelConsumption>
+  </airfoilWingParameters>
+</variables>

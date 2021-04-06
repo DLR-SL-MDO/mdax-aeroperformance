@@ -1,0 +1,15 @@
+<variables>
+  <aerodynamics>
+    <alpha_elastic/>
+    <rho/>
+    <V/>
+  </aerodynamics>
+  <airfoilWingParameters>
+    <span/>
+    <chordLength/>
+    <mass/>
+    <gravityConstant/>
+    <dcl_dalpha_airfoil/>
+    <alpha_0_airfoil/>
+  </airfoilWingParameters>
+</variables>

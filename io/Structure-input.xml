@@ -1,0 +1,17 @@
+<variables>
+  <airfoilWingParameters>
+    <span/>
+    <chordLength/>
+    <cm_0/>
+    <K_alpha/>
+    <mass/>
+    <gravityConstant/>
+    <relDistElasticAxisToCenterOfGravity/>
+    <relDistQuarterPointElasticAxis/>
+  </airfoilWingParameters>
+  <aerodynamics>
+    <rho/>
+    <V/>
+    <cl/>
+  </aerodynamics>
+</variables>
