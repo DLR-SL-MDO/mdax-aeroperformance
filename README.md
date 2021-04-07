@@ -21,4 +21,4 @@ To get an impression of the workflow, see [examples](./example). Here you also f
 
 For comments or feedback contact us at [andreas.pagerisueno@dlr.de](mailto:andreas.pagerisueno@dlr.de).
 
-![Aeroperformance Workflow](./static/xdsm_mdax_aeroperformance.svg "Hybrid-Electric Propulsion Workflow Example")
+![Aeroperformance Workflow](./static/xdsm_mdax_aeroperformance.svg "Aeroperformance Workflow Example")
