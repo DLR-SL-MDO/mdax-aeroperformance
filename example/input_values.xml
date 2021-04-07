@@ -1,7 +1,14 @@
 <variables>
+	<mission>
+		<range>0</range>
+	</mission>
 	<aerodynamics>
 		<V>70.0</V>
 		<rho>1.225</rho>
+		<alpha_elastic>0</alpha_elastic>
+		<alpha_stiff>0</alpha_stiff>
+		<cl>0</cl>
+		<cd>0</cd>
 	</aerodynamics>
 	<airfoilWingParameters>
 		<span>1</span>

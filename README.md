@@ -9,6 +9,11 @@ To install all required packages into your Anaconda environment, change into the
 conda env create --file environment.yaml
 ```
 
+If you are unable to use Anaconda, you can create your (Python 3.8) environment using a manager of your choice, and run 
+```
+pip install -r requirements.txt
+```
+
 Once you set up your Python environment, you can integrate the tools in RCE. Follow the descriptions in 
 the [docs](./doc/rce-tool-integration.pdf).
 

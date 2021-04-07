@@ -1,6 +1,6 @@
 from lxml import etree
 import math
-from tools.util import write_value
+from util import write_value
 
 IN_FILE = "./ToolInput/toolInput.xml"
 OUT_FILE = "./ToolOutput/toolOutput.xml"
